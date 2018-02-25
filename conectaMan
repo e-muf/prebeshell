@@ -1,0 +1,31 @@
+***Instrucciones***
+
+Este es un juego en el cual compites contra un amigo.
+El primer jugador sera el simbolo 'O' y el segundo jugador sera el simbolo 'X'
+Cuando aparezca su simbolo en el prompt, deberan elegir una columna, la cual
+sera donde pongan una ficha, y posteriormente le tocara al otro jugador, es un 
+juego de estrategia, por lo que se debe ver la manera en que el otro jugador no
+pueda juntar las 4 fichas.
+Las fichas se pueden juntar en horizontal, en vertical o en diagonal.
+
+Horizontal: |O| |O| |O| |O| Ganaste!!!
+
+Vertical: 
+|O|
+|O|
+|O|
+|O| Ganaste!!!
+
+Diagonal: 
+|O|  
+   |O|      
+      |O|
+         |O| Ganaste!!!
+
+Diagonal invertida:
+         |O|
+      |O|
+   |O|
+|O|          Ganaste!!!
+
+Estas listo para jugar!!!
