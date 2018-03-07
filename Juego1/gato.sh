@@ -125,10 +125,8 @@ arr=( "" "" "" "" "" "" "" "" "")
 # Main
 clear
 echo -ne "\033]0;¡Juego del gato!\007"
-
-echo -e "\t ${color_base}---------------------------------"
-echo -e "\t | ¡Bienvenido al juego de gato! |"
-echo -e "\t --------------------------------- \n"
+echo -e "${verde}"
+more gato_ban.txt
 tablero_inicial
 
 echo -e "${azul}"
