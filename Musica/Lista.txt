@@ -1,0 +1,8 @@
+Cancion					Artista				Album
+
+One More Time				Daft Punk			Discovey
+Something About us			Daft Punk			Discovery
+Get Lucky				Daft Punk			Random Access Memories
+Beyond					Daft Punk			Random Access Memories
+
+
