@@ -1,3 +1,6 @@
+#!/bin/bash
+
+jugar () {
 clear
 echo -e "\tBienvenido al juego del ahorcado"
 echo " "
@@ -165,5 +168,53 @@ clear
 		echo "Christopher te encontró".
 		echo "Haz perdido."
 	fi
+	sleep 1
+	return 0
+}
+instrucciones () {
+clear
+echo -e "\t \tINSTRUCCIONES"
+echo -e "\tHUYE DE CHRISTOPHER"
+echo -e "Chistopher es el mejor amigo de Turing, por lo que ha jurado protegerlo con su vida"
+echo -e "Haz hecho enojar a Alan y su amigo te está buscando... Debes huir de él."
+echo -e "Este Prebejuego requiere de dos jugadores. El primero es quien pondrá la"
+echo -e "palabra que el segundo jugador intentará adivinar.Si adivina a la palabra antes"
+echo -e "de utilizar el máximo de oportunidades (6), ¡el jugador 2 gana! y escapa del robot."
+echo -e "Si no lo consigue, Christopher aparecerá para arreglar las cuentas pendientes."
+echo "Escribe 1 para volver al menú--->"
+read b
 sleep 1
-return 0
+clear
+return 1
+}
+
+clear
+while :
+do
+echo -e "*************BIENVENIDO AL JUEGO DE CHRISTOPHER*************\n"
+echo "¿Listo para sentirte  más acorralado que con el semestre? :v"
+echo ""
+echo ""
+echo "-----------------------------Menú---------------------------"
+echo "<1> Si ya conoces las instrucciones y quieres empezar a jugar..."
+echo "<2> Para ver el instructivo..."
+echo "<3> Para salir"
+read option 
+case $option in 
+        1)
+                clear
+                jugar
+                ;;
+        2)
+
+                instrucciones
+                ;;
+        3)
+                exit 1
+                ;;
+        *)
+                echo "Respuesta inválida"
+                ;;
+  esac
+done
+
