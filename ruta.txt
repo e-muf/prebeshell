@@ -1,0 +1,103 @@
+/home:
+alicia
+
+/home/alicia:
+Ahorcado.1
+arbol.sh
+arbol.sh.save
+arbol.sh.save.1
+CompartirUsuario
+Descargas
+Documentos
+Escritorio
+hou
+Imágenes
+memoria
+Música
+PAck
+pancho
+Plantillas
+prebefurioso.sh
+prebeshell
+PSI=programacion@shell:~$ 
+Público
+Te veo
+Vídeos
+VirtualBox VMs
+
+/home/alicia/CompartirUsuario:
+th.jpeg
+
+/home/alicia/Descargas:
+EMPRESA.docx
+IP-SEARS.xlsx
+Libro1.xlsx
+megasync-xUbuntu_16.04_amd64.deb
+Tarea de hoy.txt
+th.jpeg
+utorrent.exe
+vpnbook-ca1-tcp443.ovpn
+vpnbook-ca1-tcp80.ovpn
+vpnbook-ca1-udp25000.ovpn
+vpnbook-ca1-udp53.ovpn
+vpnbook-ca.crt
+VPNBook.com-OpenVPN-CA1.zip
+Win10_1709_Spanish(Mexico)_x32.iso
+WINDOWS SEVEN ALL EDITIONS BY-PC fácil.torrent
+
+/home/alicia/Documentos:
+prebeshell
+
+/home/alicia/Documentos/prebeshell:
+ahorcado.odt
+juegoAhorcado.sh.save
+juegoAhorcado.sh.save.1
+promptPrebe.sh.save
+
+/home/alicia/Escritorio:
+apuntadores.c
+bubble
+bubble.c
+code.txt
+ejemplo.c
+instrAhor.sh
+juegoAhorcado.sh
+MSW7UX64.iso
+prebeFurioso.sh
+ruta.txt
+sec
+sec.c
+
+/home/alicia/hou:
+
+/home/alicia/Imágenes:
+
+/home/alicia/Música:
+
+/home/alicia/PAck:
+
+/home/alicia/pancho:
+
+/home/alicia/Plantillas:
+
+/home/alicia/Público:
+
+/home/alicia/Te veo:
+
+/home/alicia/Vídeos:
+
+/home/alicia/VirtualBox VMs:
+Windows
+
+/home/alicia/VirtualBox VMs/Windows:
+Logs
+Snapshots
+Windows.vbox
+Windows.vbox-prev
+Windows.vdi
+
+/home/alicia/VirtualBox VMs/Windows/Logs:
+VBox.log
+
+/home/alicia/VirtualBox VMs/Windows/Snapshots:
+2018-03-02T19-04-17-838403000Z.sav
