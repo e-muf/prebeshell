@@ -1,4 +1,3 @@
 #!/bin/bash
 
-dia="\033[1;32m\\d"
-echo -e $dia
+cat /proc/driver/rtc | grep -o -m 1 '[0-9]*-[0-9]*-[0-9]*'

@@ -13,7 +13,7 @@ echo 'Hola'
 function MusicPlayer (){	
 echo -ne "\033]0;Bienvenido a la PrebePlayer\007"			
 clear
-echo -e '\e[31m Regresar al menu anterior [r]\n \e[94m'
+echo -e '\e[31m Regresar al menu anterior [q]\n \e[94m'
 echo -e '------------------------------------------------------------------------------------------------'
 echo -e '\n\e[32m- Biblioteca Musical -\n \e[94m'
 more Musica/Lista.txt
